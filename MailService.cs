@@ -1,3 +1,32 @@
+public void SendMessage()
+{
+    if (currentUser == null)
+    {
+        Console.WriteLine("Сначала зарегистрируйтесь.");
+        return;
+    }
+
+    Console.Write("Введите сообщение: ");
+    string message = Console.ReadLine();
+    currentUser.SaveMessage(message);
+    Console.WriteLine("Сообщение отправлено.");
+}
+
+public void ViewMessages()
+{
+    if (currentUser == null)
+    {
+        Console.WriteLine("Сначала зарегистрируйтесь.");
+        return;
+    }
+
+    Console.WriteLine("Ваши сообщения:");
+    var messages = currentUser.LoadMessages();
+
+    foreach (var msg in messages)
+    {
+        Console.WriteLine(msg);
+
 using System;
 using System.Collections.Generic;
 
@@ -23,5 +52,6 @@ namespace MailApp
             users.Add(currentUser);
             Console.WriteLine($"Пользователь {username} зарегистрирован.");
         }
+
     }
 }
