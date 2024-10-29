@@ -1,0 +1,15 @@
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\bin\Debug\net8.0\MailApp.exe
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\bin\Debug\net8.0\MailApp.deps.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\bin\Debug\net8.0\MailApp.runtimeconfig.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\bin\Debug\net8.0\MailApp.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\bin\Debug\net8.0\MailApp.pdb
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.AssemblyInfoInputs.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.AssemblyInfo.cs
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.sourcelink.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\refint\MailApp.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.pdb
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\MailApp.genruntimeconfig.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\MailApp\obj\Debug\net8.0\ref\MailApp.dll
